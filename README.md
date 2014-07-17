@@ -1,4 +1,4 @@
-### Angular: Links for useful directives/filters and modules
+### Useful links for developing web applications in AngularJs
 ***
 This is the repository for listing all usefull plugins details and URLs
 
