@@ -18,3 +18,4 @@ This is the repository for listing all usefull plugins details and URLs
 ### Modules
 1. [Mobile Navigation (Page Transition)](https://github.com/ajoslin/angular-mobile-nav)
 2. [Language Translation](https://github.com/angular-translate/angular-translate)
+3. [Infinite scrolling for AngularJs(ngInfiniteScroll)](https://github.com/sroze/ngInfiniteScroll)
