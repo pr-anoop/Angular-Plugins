@@ -5,6 +5,7 @@ This is the repository for listing all usefull plugins details and URLs
 ### Plugins
 1. [Gritter Notification](https://github.com/jboesch/Gritter)
 2. [Flow - HTML5 file upload](https://github.com/flowjs/flow.js)
+3. [Sticky Header for iScroll](https://github.com/rudolfrck/iscroll-stickyheaders)
 
 ### Directives
 1. [TC Angular charts](https://github.com/carlcraig/tc-angular-chartjs#tc-angular-chartjs)
