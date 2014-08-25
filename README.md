@@ -17,6 +17,7 @@ This is the repository for listing all usefull plugins details and URLs
 1. [The life and times of the angular provider](http://www.linkplugapp.com/a/394945?utm_content=buffer73786&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 2. [Best Practices for Building Angular.js Apps](https://medium.com/@dickeyxxx/best-practices-for-building-angular-js-apps-266c1a4a6917)
 3. [All about angular form validations](http://blog.yodersolutions.com/bootstrap-form-validation-done-right-in-angularjs/)
+4. [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
 
 ### Modules
