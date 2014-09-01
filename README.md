@@ -18,6 +18,7 @@ This is the repository for listing all usefull plugins details and URLs
 2. [Best Practices for Building Angular.js Apps](https://medium.com/@dickeyxxx/best-practices-for-building-angular-js-apps-266c1a4a6917)
 3. [All about angular form validations](http://blog.yodersolutions.com/bootstrap-form-validation-done-right-in-angularjs/)
 4. [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
+5. [Build custom directives with AngularJS](http://www.ng-newsletter.com/posts/directives.html)
 
 
 ### Modules
