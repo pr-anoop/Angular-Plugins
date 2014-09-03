@@ -19,6 +19,7 @@ This is the repository for listing all usefull plugins details and URLs
 3. [All about angular form validations](http://blog.yodersolutions.com/bootstrap-form-validation-done-right-in-angularjs/)
 4. [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 5. [Build custom directives with AngularJS](http://www.ng-newsletter.com/posts/directives.html)
+6. [Uploading To S3 With AngularJS](http://www.cheynewallace.com/uploading-to-s3-with-angularjs)
 
 
 ### Modules
