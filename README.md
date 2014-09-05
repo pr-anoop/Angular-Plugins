@@ -22,6 +22,7 @@ This is the repository for listing all usefull plugins details and URLs
 6. [Uploading To S3 With AngularJS](http://www.cheynewallace.com/uploading-to-s3-with-angularjs)
 7. [AngularJS: Advanced Design Patterns & Best Practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices)
 8. [How to use ngMessages in AngularJS](http://www.yearofmoo.com/2014/05/how-to-use-ngmessages-in-angularjs.html)
+9. [Opinionated AngularJS styleguide for teams](http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
 
 
 ### Modules
