@@ -23,6 +23,7 @@ This is the repository for listing all usefull plugins details and URLs
 7. [AngularJS: Advanced Design Patterns & Best Practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices)
 8. [How to use ngMessages in AngularJS](http://www.yearofmoo.com/2014/05/how-to-use-ngmessages-in-angularjs.html)
 9. [Opinionated AngularJS styleguide for teams](http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
+10. [Restangular: New AngularJS framework to handle Rest API Restful Resources properly and easily](http://gon.to/2013/04/09/restangular-new-angular-framework-to-handle-restful-resources-properly-and-easily/)
 
 
 ### Modules
