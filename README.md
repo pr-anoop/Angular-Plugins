@@ -25,6 +25,7 @@ This is the repository for listing all usefull plugins details and URLs
 9. [Opinionated AngularJS styleguide for teams](http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
 10. [Restangular: New AngularJS framework to handle Rest API Restful Resources properly and easily](http://gon.to/2013/04/09/restangular-new-angular-framework-to-handle-restful-resources-properly-and-easily/)
 11. [Building large apps with Angular.js](http://www.pseudobry.com/building-large-apps-with-angular-js/)
+12. [Environment Specific Configuration in AngularJS Using Grunt](http://newtriks.com/2013/11/29/environment-specific-configuration-in-angularjs-using-grunt/)
 
 
 ### Modules
