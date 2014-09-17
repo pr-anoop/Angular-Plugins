@@ -28,6 +28,7 @@ This is the repository for listing all usefull plugins details and URLs
 12. [Environment Specific Configuration in AngularJS Using Grunt](http://newtriks.com/2013/11/29/environment-specific-configuration-in-angularjs-using-grunt/)
 13. [7 Ways to be Successful with AngularJS](http://learnangularjs.net/2013/10/24/7-ways-to-be-successful-with-angularjs/)
 14. [Minimizing initialization time in AngularJS](https://medium.com/@_zaknelson/minimizing-initialization-time-in-angularjs-f8ae57e2cec3)
+15. [Speeding up AngularJS apps with simple optimizations](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
 
 
 ### Modules
