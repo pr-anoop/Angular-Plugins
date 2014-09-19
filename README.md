@@ -30,6 +30,7 @@ This is the repository for listing all usefull plugins details and URLs
 14. [Minimizing initialization time in AngularJS](https://medium.com/@_zaknelson/minimizing-initialization-time-in-angularjs-f8ae57e2cec3)
 15. [Speeding up AngularJS apps with simple optimizations](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
 16. [Mastering the Scope of the Directives in AngularJS](http://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/)
+17. [Developing With AngularJS? Forget jQuery Exists](http://tech.zumba.com/2014/08/02/angularjs-forget-jquery/)
 
 
 ### Modules
