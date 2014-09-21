@@ -32,6 +32,7 @@ This is the repository for listing all usefull plugins details and URLs
 16. [Mastering the Scope of the Directives in AngularJS](http://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/)
 17. [Developing With AngularJS? Forget jQuery Exists](http://tech.zumba.com/2014/08/02/angularjs-forget-jquery/)
 18. [Angularjs Dependency Injection](http://diegobarahona.com/javascript/angularjs/2013/06/13/angularjs-dependency-injection/)
+19. [The "Magic" behind AngularJS Dependency Injection](http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
 
 
 ### Modules
