@@ -33,6 +33,7 @@ This is the repository for listing all usefull plugins details and URLs
 17. [Developing With AngularJS? Forget jQuery Exists](http://tech.zumba.com/2014/08/02/angularjs-forget-jquery/)
 18. [Angularjs Dependency Injection](http://diegobarahona.com/javascript/angularjs/2013/06/13/angularjs-dependency-injection/)
 19. [The "Magic" behind AngularJS Dependency Injection](http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html)
+20. [The Hitchhiker’s Guide to the Directive](http://amitgharat.wordpress.com/2013/06/08/the-hitchhikers-guide-to-the-directive/)
 
 
 ### Modules
